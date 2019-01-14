@@ -1,0 +1,37 @@
+[root@mgmt ~]# cat /etc/hosts
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+10.1.0.201 compute001.subnetad3.clustervcn.oraclevcn.com compute001
+10.1.0.202 compute002.subnetad3.clustervcn.oraclevcn.com compute002
+10.1.0.203 compute003.subnetad3.clustervcn.oraclevcn.com compute003
+10.1.0.204 compute004.subnetad3.clustervcn.oraclevcn.com compute004
+10.1.0.205 compute005.subnetad3.clustervcn.oraclevcn.com compute005
+10.1.0.206 compute006.subnetad3.clustervcn.oraclevcn.com compute006
+10.1.0.207 compute007.subnetad3.clustervcn.oraclevcn.com compute007
+10.1.0.208 compute008.subnetad3.clustervcn.oraclevcn.com compute008
+10.1.0.209 compute009.subnetad3.clustervcn.oraclevcn.com compute009
+10.1.0.210 compute010.subnetad3.clustervcn.oraclevcn.com compute010
+10.1.0.211 compute011.subnetad3.clustervcn.oraclevcn.com compute011
+10.1.0.212 compute012.subnetad3.clustervcn.oraclevcn.com compute012
+10.1.0.213 compute013.subnetad3.clustervcn.oraclevcn.com compute013
+10.1.0.214 compute014.subnetad3.clustervcn.oraclevcn.com compute014
+10.1.0.215 compute015.subnetad3.clustervcn.oraclevcn.com compute015
+10.1.0.216 compute016.subnetad3.clustervcn.oraclevcn.com compute016
+10.1.0.217 compute017.subnetad3.clustervcn.oraclevcn.com compute017
+10.1.0.218 compute018.subnetad3.clustervcn.oraclevcn.com compute018
+10.1.0.219 compute019.subnetad3.clustervcn.oraclevcn.com compute019
+10.1.0.220 compute020.subnetad3.clustervcn.oraclevcn.com compute020
+
+10.1.0.221 highmem001.subnetad3.clustervcn.oraclevcn.com highmem001
+10.1.0.222 highmem002.subnetad3.clustervcn.oraclevcn.com highmem002
+10.1.0.223 highmem003.subnetad3.clustervcn.oraclevcn.com highmem003
+10.1.0.224 highmem004.subnetad3.clustervcn.oraclevcn.com highmem004
+10.1.0.225 highmem005.subnetad3.clustervcn.oraclevcn.com highmem005
+
+10.1.0.226 highcpu001.subnetad3.clustervcn.oraclevcn.com highcpu001
+10.1.0.227 highcpu002.subnetad3.clustervcn.oraclevcn.com highcpu002
+10.1.0.228 highcpu003.subnetad3.clustervcn.oraclevcn.com highcpu003
+10.1.0.229 highcpu004.subnetad3.clustervcn.oraclevcn.com highcpu004
+10.1.0.230 highcpu005.subnetad3.clustervcn.oraclevcn.com highcpu005
+
+10.1.0.80 mgmt.subnetad3.clustervcn.oraclevcn.com mgmt
